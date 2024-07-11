@@ -3,8 +3,8 @@
         <details align="center">
             <summary>SPRACHAUSWAHL</summary>
             <p align="center">
-                <a href="https://github.com/Neclaex/miyukara-docs/TOS.html" style="padding: 10px"> <img src="https://github.com/Neclaex/miyukara-docs/img/usa.svg"> English </a>
-                <a style="padding: 10px"> <img src="https://github.com/Neclaex/miyukara-docs/img/deu.svg"> Deutsch </a>
+                <a href="https://neclaex.github.io/miyukara-docs/TOS.html" style="padding: 10px"> <img src="https://neclaex.github.io/miyukara-docs/img/usa.svg"> English </a>
+                <a style="padding: 10px"> <img src="https://neclaex.github.io/miyukara-docs/img/deu.svg"> Deutsch </a>
             </p>
         </details>
     </body>
@@ -12,7 +12,7 @@
 
 # DATENSCHUTZRICHTLINIE
 Neclaex („wir“, „uns“ oder „unser“) betreibt die Miyukara-Anwendung (nachfolgend „Dienst“ genannt).
-Diese Seite informiert Sie über unsere Richtlinien zur Erfassung, Verwendung und Offenlegung personenbezogener Daten bei der Nutzung unseres Dienstes und über die Auswahlmöglichkeiten, die Sie in Bezug auf diese Daten haben. Wir verwenden Ihre Daten, um den Dienst bereitzustellen und zu verbessern. Durch die Nutzung des Dienstes stimmen Sie der Erfassung und Verwendung von Informationen gemäß dieser Richtlinie zu. Sofern in dieser Datenschutzrichtlinie nicht anders definiert, haben die in dieser Datenschutzrichtlinie verwendeten Begriffe die gleiche Bedeutung wie in unseren Allgemeinen Geschäftsbedingungen, die unter [https://github.com/Neclaex/miyukara-docs](https://github.com/Neclaex/miyukara-docs/TOS-DE.html) zugänglich sind.
+Diese Seite informiert Sie über unsere Richtlinien zur Erfassung, Verwendung und Offenlegung personenbezogener Daten bei der Nutzung unseres Dienstes und über die Auswahlmöglichkeiten, die Sie in Bezug auf diese Daten haben. Wir verwenden Ihre Daten, um den Dienst bereitzustellen und zu verbessern. Durch die Nutzung des Dienstes stimmen Sie der Erfassung und Verwendung von Informationen gemäß dieser Richtlinie zu. Sofern in dieser Datenschutzrichtlinie nicht anders definiert, haben die in dieser Datenschutzrichtlinie verwendeten Begriffe die gleiche Bedeutung wie in unseren Allgemeinen Geschäftsbedingungen, die unter [https://neclaex.github.io/miyukara-docs/](https://neclaex.github.io/miyukara-docs/TOS-DE.html) zugänglich sind.
 
 ## Definition
 #### Service

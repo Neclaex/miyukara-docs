@@ -3,8 +3,8 @@
         <details align="center">
             <summary>LANGUAGE SELECTION</summary>
             <p align="center">
-                <a style="padding: 10px"> <img src="https://github.com/Neclaex/miyukara-docs/img/usa.svg"> English </a>
-                <a href="https://github.com/Neclaex/miyukara-docs/PRIVACY-DE.html" style="padding: 10px"> <img src="https://github.com/Neclaex/miyukara-docs/img/deu.svg"> Deutsch </a>
+                <a style="padding: 10px"> <img src="https://neclaex.github.io/miyukara-docs/img/usa.svg"> English </a>
+                <a href="https://neclaex.github.io/miyukara-docs/PRIVACY-DE.html" style="padding: 10px"> <img src="https://neclaex.github.io/miyukara-docs/img/deu.svg"> Deutsch </a>
             </p>
         </details>
     </body>
@@ -12,7 +12,7 @@
 
 # PRIVACY POLICY
 Neclaex ("we", "us", or "our") operates the Miyukara application (hereinafter referred to as the "Service").
-This page informs you of our policies regarding the collection, use, and disclosure of personal information when you use our Service and the choices you have regarding that information. We use your information to provide and improve the Service. By using the Service, you consent to the collection and use of information in accordance with this Policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [https://github.com/Neclaex/miyukara-docs](https://github.com/Neclaex/miyukara-docs/TOS.html).
+This page informs you of our policies regarding the collection, use, and disclosure of personal information when you use our Service and the choices you have regarding that information. We use your information to provide and improve the Service. By using the Service, you consent to the collection and use of information in accordance with this Policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [https://neclaex.github.io/miyukara-docs/](https://neclaex.github.io/miyukara-docs/TOS.html).
 
 ## Definition
 #### Service

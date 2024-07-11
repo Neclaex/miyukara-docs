@@ -3,8 +3,8 @@
         <details align="center">
             <summary>LANGUAGE SELECTION</summary>
             <p align="center">
-                <a style="padding: 10px"> <img src="https://github.com/Neclaex/miyukara-docs/img/usa.svg"> English </a>
-                <a href="https://github.com/Neclaex/miyukara-docs/TOS-DE.html" style="padding: 10px"> <img src="https://github.com/Neclaex/miyukara-docs/img/deu.svg"> Deutsch </a>
+                <a style="padding: 10px"> <img src="https://neclaex.github.io/miyukara-docs/img/usa.svg"> English </a>
+                <a href="https://neclaex.github.io/miyukara-docs/TOS-DE.html" style="padding: 10px"> <img src="https://neclaex.github.io/miyukara-docs/img/deu.svg"> Deutsch </a>
             </p>
         </details>
     </body>
